@@ -1,4 +1,3 @@
-palindrome()
 var startBtn = document.getElementById("startBtn")
 // debugger
 startBtn.addEventListener("click", palindrome)
